@@ -1,0 +1,18 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+class Stack{
+    int top;
+
+public :
+int a[1000];
+Stack()
+
+int main(){
+
+
+
+    return 0;
+
+}
